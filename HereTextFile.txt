@@ -1,2 +1,1 @@
-Start again.
-Another line.
+Start again
